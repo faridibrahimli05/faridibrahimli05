@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faridibrahimli05
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Front-end Web Development
+- 🌱 I’m currently learning iOS Development(Swift&SwiftUI)
 
 <!---
 faridibrahimli05/faridibrahimli05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
